@@ -2,11 +2,9 @@ package com.gridnine.testing.service;
 
 import com.gridnine.testing.entity.Flight;
 import com.gridnine.testing.entity.Segment;
-import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
 import java.time.LocalDateTime;
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
